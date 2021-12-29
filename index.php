@@ -45,7 +45,7 @@ body {
 	margin-top: 40px;
 	height: 40px;
 	width: 86%;
-	background-color: #ffffff;
+	background-color: blue;
 	text-align: center;
 	line-height: 12px;
 	border-radius: 6px 6px 0px 0px;
@@ -71,7 +71,7 @@ ul {
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-  background-color: #333;
+  background-color: tomato;
 }
 
 li {
